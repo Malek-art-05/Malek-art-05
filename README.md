@@ -13,6 +13,7 @@ I'm **Artem Machulenka**, a passionate computer science student who'sinterested 
 💬 Let's Connect
 * Email : <a href="mailto:malek.art.05@gmail.com?subject=Collaboration%20Request" target="_blank">Send Email</a>
 * GitHub : <a href="https://github.com/Malek-art-05" target="_blank">Here!</a>
+* Portfolio : <a href="https://main.d31yaiszls2ab2.amplifyapp.com/" target="_blank">Here!</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malek-art-05/Malek-art-05/output/github-snake-dark.svg" />
