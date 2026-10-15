@@ -12,6 +12,7 @@ I'm **Artem Machulenka**, a passionate computer science student who'sinterested 
 
 💬 Let's Connect
 * Email : <a href="mailto:malek.art.05@gmail.com?subject=Collaboration%20Request" target="_blank">Send Email</a>
+* LinkedIn : <a href="https://www.linkedin.com/in/artem-machulenka-9b1a48260" >Here!</a>
 * GitHub : <a href="https://github.com/Malek-art-05" target="_blank">Here!</a>
 * Portfolio : <a href="https://main.d31yaiszls2ab2.amplifyapp.com/" target="_blank">Here!</a>
 
